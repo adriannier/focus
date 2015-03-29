@@ -10,25 +10,28 @@ View the demo at [http://homecamp.de/focus](http://homecamp.de/focus)
 ## Usage
 When you first load the timer it will start in focus mode. Once 45 minutes have passed, the timer switches to relax mode for 15 minutes. This is repeated infinitely as long as you keep the browser window open.
 
-**Mode toggle**
+##### Mode toggle
+
 Switch between focus and relax mode immediately by pressing the text indicating the current mode above the time readout.
 
-**Pause***
+##### Pause
+
 Tapping the time readout stops the timer until you press again.
 
-**Themes**
+##### Themes
+
 To toggle between the black-on-white and white-on-black tap the the circular indicator.
 
-**Accelerate**
+##### Accelerate
 Pressing and holding the circular indicator allows you to fast-forward the timer.
 
-**Reloading**
+##### Reloading
 The current mode and remaining time will be restored when the browser window is reloaded.
 
-**Zooming**
-Use your browser’s built-in zoom feature to control the **size** of the timer.
+##### Zooming
+Use your browser’s built-in zoom feature to control the size of the timer.
 
-**Desktop app**
+##### Desktop app
 With [Fluid](http://fluidapp.com) you can create a stand-alone focus timer application on your Mac.
 
 ## Installation
