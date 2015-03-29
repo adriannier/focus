@@ -1,0 +1,71 @@
+html, body { 
+	width: 100%; 
+	height: 100%; 
+	padding: 0; 
+	margin: 0; 
+	overflow: hidden;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-webkit-text-stroke: 0.5px;
+}
+	
+body.dark {
+	background-color: black;
+}
+body.dark .timer_mode_display,
+body.dark .timer_time_display {
+	color: #ccc;
+}
+
+#timer {
+	display: table;
+	width: 100%; 
+	height: 100%; 	
+	overflow: hidden;
+}
+
+.timer_wrapper {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	position: relative;
+	top: -5%;
+}
+
+.timer {
+	font-family: 'HelveticaNeue-UltraLight', 'HelveticaNeueUltraLight', 'HelveticaNeue-Ultra-Light', 'Helvetica Neue Ultra Light', 'HelveticaNeue', 'Helvetica Neue', 'TeXGyreHerosRegular', sans-serif;
+	font-weight: 100; 
+	font-stretch: normal;
+
+	cursor: default !important;
+	-moz-user-select: none; 
+	-webkit-user-select: none; 
+	-ms-user-select:none; 
+	user-select:none;
+
+}
+		
+.timer_mode_display {
+	
+	width: 140px;
+	font-size: 42px;
+	line-height: 42px; 
+	font-weight: 100;
+	margin: 0 auto 24px auto;
+}
+
+.timer_time_display { 
+	width: 220px;
+	font-size: 72px;
+	line-height: 72px; 
+	font-weight: 100;
+	
+	margin: 0 auto 24px auto;
+}
+
+.timer_animation {
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	height: 100px;
+	
+}
