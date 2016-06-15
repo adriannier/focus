@@ -5,7 +5,7 @@ A timer to help you alternate between phases of focused work and relaxation
 Apart from wanting to develop healthier work habits, I was interested in creating an offline web app, trying the HTML5 audio tag, and see how all of that performs on various devices.
 
 ## Getting started
-View the demo at [http://homecamp.de/focus](http://homecamp.de/focus)
+View the demo at [https://adriannier.de/focus](https://adriannier.de/focus)
 
 ## Usage
 When you first load the timer it will start in focus mode. Once 45 minutes have passed, the timer switches to relax mode for 15 minutes. This is repeated infinitely as long as you keep the browser window open.
