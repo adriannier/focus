@@ -43,7 +43,7 @@ Download the project and open index.html or copy the project files to a web serv
 
 ## Debugging
 Load index.html with an empty GET variable named debug to have log messages appear in the console log.
-Example: [http://homecamp.de/focus?debug](http://homecamp.de/focus?debug)
+Example: [https://adriannier.de/focus?debug](https://adriannier.de/focus?debug)
 
 ## Acknowledgements
 The focus sound was provided by user [eliasheuninck](https://www.freesound.org/people/eliasheuninck) of freesound.org under the Creative Commons 0 License. Original file name: [Singing bowl, high and quiet](https://www.freesound.org/people/eliasheuninck/sounds/170670/)
